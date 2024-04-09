@@ -19,3 +19,14 @@ Notes on using Orchestrate
 1. (find skill eg Box)
 1. (add skill eg. Box / Upload a file)
 1. (connect with your credentials)
+
+## Creating a Skill flow
+1. Menu / BUILD / Skills and Apps
+1. (button drop down) Actions / Create Skill flow
+1. (pencil) Name skill / save
+1. (icon +) to add previously "added" skills, either custom (from Open API) or pre-built (eg. Box file Upload)
+1. (button drop down) Actions / Enhance
+1. (tab) Phrases
+1. (enter training phrases into text field and press enter (a new field will appear). Continue entering example phrases.
+1. (button) Publish
+
